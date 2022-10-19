@@ -17,6 +17,8 @@ docker exec -it node /bin/bash -c "cd /home/node/app/nodeapp && npm install"
 node helloworld.cjs
 ```
 
+Stopp App with "STRG-C"
+
 
 
 App can be reached at `http://localhost:3000`
