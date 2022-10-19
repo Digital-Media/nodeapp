@@ -10,5 +10,13 @@ docker exec -it node /bin/bash -c "cd /home/node/app && git clone https://github
 ```
 docker exec -it node /bin/bash -c "cd /home/node/app/nodeapp && npm install"
 ```
+```
+docker exec -it node /bin/bash -c "cd /home/node/app/nodeapp && npm install"
+```
+```
+node helloworld.cjs
+```
 
-App can be reached at `http://localhost:3030`
+
+
+App can be reached at `http://localhost:3000
